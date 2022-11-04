@@ -1,0 +1,22 @@
+{
+  "name": "show_kkyap",
+  "version": "1.0.0",
+  "description": "first san kyi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungkyawkyaw/kaungkyawkyawmyname.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "kkkyaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungkyawkyaw/kaungkyawkyawmyname/issues"
+  },
+  "homepage": "https://github.com/kaungkyawkyaw/kaungkyawkyawmyname#readme"
+}
